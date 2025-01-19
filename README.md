@@ -4,17 +4,8 @@
 
 ### Abap/Fiori/UI5/Web Developper
 
-- :arrow_forward: [Innovation Department - @STMS :blue_heart:](https://www.stms.fr/)
+- :arrow_forward: [STMS - Innovation Department :blue_heart:](https://www.stms.fr/)
 - :arrow_forward: [Toulouse - France :earth_americas:](https://www.google.fr/maps/place/STMS+Toulouse/@43.6001741,1.441334,818m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12aebc8268738173:0x2da64e4c1e134d15!8m2!3d43.6001702!4d1.4439089!16s%2Fg%2F1tcx3kx7?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
-
-### Certifications
-
-- :arrow_forward: Integration Developer (In Progress)
-- :arrow_forward: SAP Consultant ABAP Developer
-- :arrow_forward: Web Developer
-- :arrow_forward: Customer Relationship
-- :arrow_forward: ADVP Methodology
-- :arrow_forward: Trainer
 
 ### Reach me
 
