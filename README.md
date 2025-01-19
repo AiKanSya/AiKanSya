@@ -2,12 +2,14 @@
 
 ## INTRODUCTION
 
-### :diamond_shape_with_a_dot_inside: Profile
+### :diamond_shape_with_a_dot_inside: Abap/Fiori/UI5/Web Developper/Trainer
 
-- #### :arrow_forward: Abap / Fiori / UI5 / Web Developper
 - #### :arrow_forward: [Innovation Department - @STMS](https://www.stms.fr/)
 - #### :arrow_forward: [Toulouse - France](https://www.google.fr/maps/place/1/@43.600446,1.4422593,809m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12aebdf454ae32d7:0xffefc4dfa875910b!8m2!3d43.6004421!4d1.4448342!16s%2Fg%2F11f5_f7ncj?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
-- #### :arrow_forward: Professional Experience: 2 years of professional experience
+
+### :diamond_shape_with_a_dot_inside: SAP Certifications
+
+- #### :arrow_forward: [Integration Developer](https://learning.sap.com/certifications/sap-certified-associate-integration-developer) (In Progress)
 
 ### :diamond_shape_with_a_dot_inside: Repository Statistics
 
