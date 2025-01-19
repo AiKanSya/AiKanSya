@@ -2,19 +2,22 @@
 
 ## INTRODUCTION
 
-<picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=AiKanSya&show_icons=true&theme=tokyonight&rank_icon=github" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AiKanSya&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
-</picture>
+<div align="right">
+    <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=AiKanSya&show_icons=true&theme=tokyonight&rank_icon=github&line_height=28" media="(prefers-color-scheme: dark)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AiKanSya&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+    </picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiKanSya&layout=donut" alt="Top Langs" />
+</div>
 
 ## STACKS
 
-### BACKEND
+### :diamond_shape_with_a_dot_inside: Backend
 
-<div>
+<div align="right">
     <!-- SAP S/4HANA -->
     <a href="https://www.sap.com/products/s4hana.html" target="_blank">
-        <img src="https://img.shields.io/badge/SAP%20S4HANA-003B49?style=for-the-badge&logo=sap&logoColor=white" alt="SAP S/4HANA Badge" />
+        <img src="https://img.shields.io/badge/SAP%20S4HANA-003B49?style=for-the-badge&logo=sap&logoColor=white&bgcolor=black" alt="SAP S/4HANA Badge" />
     </a>
     <!-- SAP NETWEAVER -->
     <a href="https://www.sap.com/products/netweaver.html" target="_blank">
@@ -38,7 +41,7 @@
     </a>
 </div>
 
-<div>
+<div align="right">
     <!-- ECLIPSE -->
     <a href="https://www.eclipse.org/" target="_blank">
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse Badge" />
@@ -69,9 +72,9 @@
     </a>
 </div>
 
-### FRONTEND
+### :diamond_shape_with_a_dot_inside: Frontend
 
-<div>
+<div align="right">
     <!-- SAP FIORI -->
     <a href="https://www.sap.com/products/fiori.html" target="_blank">
         <img src="https://img.shields.io/badge/SAP%20Fiori-003B49?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Fiori Badge" />
@@ -94,7 +97,7 @@
     </a>
 </div>
 
-<div>
+<div align="right">
     <!-- VSCODE -->
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
@@ -145,9 +148,9 @@
     </a>
 </div>
 
-### TOOLS
+### :diamond_shape_with_a_dot_inside: Tools
 
-<div>
+<div align="right">
     <!-- NODE.JS -->
     <a href="https://nodejs.org" target="_blank">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
@@ -182,7 +185,7 @@
     </a>
 </div>
 
-<div>
+<div align="right">
     <!-- GIT -->
     <a href="https://git-scm.com" target="_blank">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
@@ -201,9 +204,9 @@
     </a>
 </div>
 
-### ACCESSIBILITY & SEO
+### :diamond_shape_with_a_dot_inside: Accessibility & SEO
 
-<div>
+<div align="right">
     <!-- SEO -->
     <a href="https://en.wikipedia.org/wiki/Search_engine_optimization" target="_blank">
         <img src="https://img.shields.io/badge/SEO-FF5722?style=for-the-badge&logo=google&logoColor=white" alt="SEO Badge" />
@@ -214,9 +217,9 @@
     </a>
 </div>
 
-### GRAPHIC & MULTIMEDIA CREATION
+### :diamond_shape_with_a_dot_inside: Adobe
 
-<div>
+<div align="right">
     <!-- PHOTOSHOP -->
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
         <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop Badge" />
