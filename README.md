@@ -5,7 +5,7 @@
 ### Abap/Fiori/UI5/Web Developper/Trainer
 
 - :arrow_forward: [Innovation Department - @STMS :blue_heart:](https://www.stms.fr/)
-- :arrow_forward: [Toulouse - France :earth_americas:](https://www.google.fr/maps/place/1/@43.600446,1.4422593,809m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12aebdf454ae32d7:0xffefc4dfa875910b!8m2!3d43.6004421!4d1.4448342!16s%2Fg%2F11f5_f7ncj?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
+- :arrow_forward: [Toulouse - France :earth_americas:](https://www.google.fr/maps/place/STMS+Toulouse/@43.6001741,1.441334,818m/data=!3m2!1e3!4b1!4m6!3m5!1s0x12aebc8268738173:0x2da64e4c1e134d15!8m2!3d43.6001702!4d1.4439089!16s%2Fg%2F1tcx3kx7?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
 
 ### Certifications
 
