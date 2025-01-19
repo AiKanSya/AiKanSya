@@ -16,9 +16,10 @@
 - :arrow_forward: ADVP Methodology
 - :arrow_forward: Trainer
 
-### Reach me
+### Socials
 
-- :arrow_forward: [AiKanSya's mail](mailto:frederic.giustini@stms.fr)
+[![Outlook](https://img.shields.io/badge/Outlook-%23007A33.svg?logo=microsoft-outlook&logoColor=white)](mailto:frederic.giustini@stms.fr)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AiKanSya) 
 
 ### Repository Statistics
 
@@ -27,7 +28,7 @@
         <source srcset="https://github-readme-stats.vercel.app/api?username=AiKanSya&show_icons=true&theme=tokyonight&rank_icon=github&line_height=28" media="(prefers-color-scheme: dark)" />
         <img src="https://github-readme-stats.vercel.app/api?username=AiKanSya&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
     </picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiKanSya&layout=donut" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiKanSya&theme=dark&layout=donut" alt="Top Langs" />
 </div>
 
 ## :diamond_shape_with_a_dot_inside: STACKS
@@ -54,29 +55,29 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://img.shields.io/badge/CSS-003B57?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
     </a>
+    <!-- MARKDOWN -->
+    <a href="https://www.markdownguide.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Markdown-003B57?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Badge" />
+    </a>
+    <!-- TYPESCRIPT -->
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/TypeScript-003B57?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
+    </a>
 </div>
 
 <div>
-    <h6>Frameworks</h6>
-    <!-- SAP UI5 -->
-    <a href="https://www.sap.com/products/ui5.html" target="_blank">
-        <img src="https://img.shields.io/badge/SAPUI5-003B57?style=for-the-badge&logo=sap&logoColor=white" alt="SAPUI5 Badge" />
+    <h6>Hosting/SaaS</h6>
+    <!-- SAP BTP -->
+    <a href="https://www.sap.com/products/business-technology-platform.html" target="_blank">
+        <img src="https://img.shields.io/badge/SAP%20BTP-003B57?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP Badge" />
     </a>
-    <!-- REACT -->
-    <a href="https://reactjs.org" target="_blank">
-        <img src="https://img.shields.io/badge/React-003B57?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
+    <!-- SAP ON-PREMISE -->
+    <a href="https://www.sap.com/products/on-premise.html" target="_blank">
+        <img src="https://img.shields.io/badge/SAP%20On--Premise-003B57?style=for-the-badge&logo=sap&logoColor=white" alt="SAP On-Premise Badge" />
     </a>
-    <!-- REACT REDUX -->
-    <a href="https://react-redux.js.org/" target="_blank">
-        <img src="https://img.shields.io/badge/React%20Redux-003B57?style=for-the-badge&logo=redux&logoColor=white" alt="React Redux Badge" />
-    </a>
-    <!-- REACT STATE MANAGER -->
-    <a href="https://reactjs.org/docs/state-and-lifecycle.html" target="_blank">
-        <img src="https://img.shields.io/badge/React%20State%20Manager-003B57?style=for-the-badge&logo=react&logoColor=black" alt="React State Manager Badge" />
-    </a>
-    <!-- EXPRESS.JS -->
-    <a href="https://expressjs.com" target="_blank">
-        <img src="https://img.shields.io/badge/Express.js-003B57?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge" />
+    <!-- SAP S/4HANA CLOUD -->
+    <a href="https://www.sap.com/products/s4hana-cloud.html" target="_blank">
+        <img src="https://img.shields.io/badge/SAP%20S/4HANA%20Cloud-003B57?style=for-the-badge&logo=sap&logoColor=white" alt="SAP S/4HANA Cloud Badge" />
     </a>
 </div>
 
@@ -109,14 +110,6 @@
     <!-- DEVTOOLS -->
     <a href="https://developer.chrome.com/docs/devtools/" target="_blank">
         <img src="https://img.shields.io/badge/DevTools-003B57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevTools Badge" />
-    </a>
-    <!-- NPM -->
-    <a href="https://www.npmjs.com" target="_blank">
-        <img src="https://img.shields.io/badge/npm-003B57?style=for-the-badge&logo=npm&logoColor=white" alt="npm Badge" />
-    </a>
-    <!-- YARN -->
-    <a href="https://yarnpkg.com" target="_blank">
-        <img src="https://img.shields.io/badge/Yarn-003B57?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn Badge" />
     </a>
     <!-- BOOTSTRAP -->
     <a href="https://getbootstrap.com" target="_blank">
@@ -154,21 +147,57 @@
     <a href="https://www.eclipse.org/" target="_blank">
         <img src="https://img.shields.io/badge/Eclipse-003B57?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse Badge" />
     </a>
+</div>
+
+<div>
+    <h6>Frameworks, Platforms & Libraries</h6>
+    <!-- SAP UI5 -->
+    <a href="https://www.sap.com/products/ui5.html" target="_blank">
+        <img src="https://img.shields.io/badge/SAPUI5-003B57?style=for-the-badge&logo=sap&logoColor=white" alt="SAPUI5 Badge" />
+    </a>
+    <!-- SAP Gateway -->
+    <a href="https://help.sap.com/viewer/product/SAP_GATEWAY/MAIN/en-US" target="_blank">
+        <img src="https://img.shields.io/badge/SAP%20Gateway-003B57?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Gateway Badge" />
+    </a>
+    <!-- REACT -->
+    <a href="https://reactjs.org" target="_blank">
+        <img src="https://img.shields.io/badge/React-003B57?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
+    </a>
+    <!-- REACT REDUX -->
+    <a href="https://react-redux.js.org/" target="_blank">
+        <img src="https://img.shields.io/badge/React%20Redux-003B57?style=for-the-badge&logo=redux&logoColor=white" alt="React Redux Badge" />
+    </a>
+    <!-- REACT STATE MANAGER -->
+    <a href="https://reactjs.org/docs/state-and-lifecycle.html" target="_blank">
+        <img src="https://img.shields.io/badge/React%20State%20Manager-003B57?style=for-the-badge&logo=react&logoColor=black" alt="React State Manager Badge" />
+    </a>
     <!-- NODE.JS -->
     <a href="https://nodejs.org" target="_blank">
         <img src="https://img.shields.io/badge/Node.js-003B57?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
     </a>
-    <!-- SEQUELIZE -->
-    <a href="https://sequelize.org" target="_blank">
-        <img src="https://img.shields.io/badge/Sequelize-003B57?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize Badge" />
+    <!-- EXPRESS.JS -->
+    <a href="https://expressjs.com" target="_blank">
+        <img src="https://img.shields.io/badge/Express.js-003B57?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge" />
     </a>
-</div>
-
-<div>
-    <h6>Cloud</h6>
-    <!-- SAP BTP -->
-    <a href="https://www.sap.com/products/business-technology-platform.html" target="_blank">
-        <img src="https://img.shields.io/badge/SAP%20BTP-003B57?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP Badge" />
+    <!-- NPM -->
+    <a href="https://www.npmjs.com" target="_blank">
+        <img src="https://img.shields.io/badge/npm-003B57?style=for-the-badge&logo=npm&logoColor=white" alt="npm Badge" />
+    </a>
+    <!-- YARN -->
+    <a href="https://yarnpkg.com" target="_blank">
+        <img src="https://img.shields.io/badge/Yarn-003B57?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn Badge" />
+    </a>
+    <!-- JWT -->
+    <a href="https://jwt.io/" target="_blank">
+        <img src="https://img.shields.io/badge/JWT-003B57?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Badge" />
+    </a>
+    <!-- Nodemon -->
+    <a href="https://nodemon.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Nodemon-003B57?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon Badge" />
+    </a>
+    <!-- SASS -->
+    <a href="https://sass-lang.com/" target="_blank">
+        <img src="https://img.shields.io/badge/SASS-003B57?style=for-the-badge&logo=sass&logoColor=white" alt="SASS Badge" />
     </a>
 </div>
 
@@ -189,7 +218,7 @@
 </div>
 
 <div>
-    <h6>Databases</h6>
+    <h6>Databases/ORM</h6>
     <!-- SAP HANA -->
     <a href="https://www.sap.com/products/hana.html" target="_blank">
         <img src="https://img.shields.io/badge/SAP%20HANA-003B57?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HANA Badge" />
@@ -209,6 +238,10 @@
     <!-- MONGOOSE -->
     <a href="https://mongoosejs.com" target="_blank">
         <img src="https://img.shields.io/badge/Mongoose-003B57?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose Badge" />
+    </a>
+    <!-- SEQUELIZE -->
+    <a href="https://sequelize.org" target="_blank">
+        <img src="https://img.shields.io/badge/Sequelize-003B57?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize Badge" />
     </a>
 </div>
 
