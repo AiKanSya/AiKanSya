@@ -16,7 +16,7 @@
 - :arrow_forward: ADVP Methodology
 - :arrow_forward: Trainer
 
-### Socials
+### Reach me
 
 [![Outlook](https://img.shields.io/badge/Outlook-%23007A33.svg?logo=microsoft-outlook&logoColor=white)](mailto:frederic.giustini@stms.fr)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AiKanSya) 
