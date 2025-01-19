@@ -20,6 +20,7 @@
 
 [![Outlook](https://img.shields.io/badge/Outlook-%23007A33.svg?logo=microsoft-outlook&logoColor=white)](mailto:frederic.giustini@stms.fr)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AiKanSya) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AiKanSya) 
 
 ### Repository Statistics
 
@@ -28,7 +29,7 @@
         <source srcset="https://github-readme-stats.vercel.app/api?username=AiKanSya&show_icons=true&theme=tokyonight&rank_icon=github&line_height=28" media="(prefers-color-scheme: dark)" />
         <img src="https://github-readme-stats.vercel.app/api?username=AiKanSya&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
     </picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiKanSya&theme=dark&layout=donut" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiKanSya&theme=tokyonight&layout=donut" alt="Top Langs" />
 </div>
 
 ## :diamond_shape_with_a_dot_inside: STACKS
