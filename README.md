@@ -39,6 +39,10 @@
 </div>
 
 <div>
+    <!-- ECLIPSE -->
+    <a href="https://www.eclipse.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse Badge" />
+    </a>
     <!-- MYSQL -->
     <a href="https://www.mysql.com" target="_blank">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
@@ -91,6 +95,10 @@
 </div>
 
 <div>
+    <!-- VSCODE -->
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
+    </a>
     <!-- REACT -->
     <a href="https://reactjs.org" target="_blank">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
@@ -234,4 +242,3 @@
         <img src="https://img.shields.io/badge/Lightroom-1A1A1A?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom Badge" />
     </a>
 </div>
-
