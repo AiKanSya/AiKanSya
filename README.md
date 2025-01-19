@@ -259,7 +259,7 @@
 </div>
 
 <div>
-    <h6>Versioning</h6>
+    <h6>VCS</h6>
     <!-- GIT -->
     <a href="https://git-scm.com" target="_blank">
         <img src="https://img.shields.io/badge/Git-003B57?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
