@@ -17,7 +17,7 @@
 
 ## 🌸 SAP CERTIFICATIONS
 
-[![SAP CPI](https://img.shields.io/badge/SAP%20CPI-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite)
+[![SAP CPI](https://img.shields.io/badge/SAP%20CPI-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite)
 
 ## 🌸 Reach me
 
@@ -27,83 +27,83 @@
 
 ## 🌸 STACKS
 
-#### 💮 Languages
+### 💮 Languages
 
-[![ABAP](https://img.shields.io/badge/SAP%20ABAP-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/abap.html)
-[![JavaScript](https://img.shields.io/badge/JavaScript-003B57?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.org/)
-[![HTML](https://img.shields.io/badge/HTML-003B57?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-003B57?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Markdown](https://img.shields.io/badge/Markdown-003B57?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-003B57?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![ABAP](https://img.shields.io/badge/SAP%20ABAP-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/abap.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-00517D?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-00517D?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.org/)
+[![HTML](https://img.shields.io/badge/HTML-00517D?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-00517D?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Markdown](https://img.shields.io/badge/Markdown-00517D?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-00517D?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-#### 💮 Hosting/SaaS
+### 💮 Hosting/SaaS
 
-[![SAP BTP](https://img.shields.io/badge/SAP%20BTP-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/business-technology-platform.html)
-[![SAP On-Premise](https://img.shields.io/badge/SAP%20On%20Premise-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/on-premise.html)
-[![SAP S/4HANA Cloud](https://img.shields.io/badge/SAP%20S%2F4HANA%20Cloud-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/s4hana-cloud.html)
+[![SAP BTP](https://img.shields.io/badge/SAP%20BTP-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/business-technology-platform.html)
+[![SAP On-Premise](https://img.shields.io/badge/SAP%20On%20Premise-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/on-premise.html)
+[![SAP S/4HANA Cloud](https://img.shields.io/badge/SAP%20S%2F4HANA%20Cloud-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/s4hana-cloud.html)
 
-#### 💮 Frontend & Tools
+### 💮 Frontend & Tools
 
-[![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/fiori.html)
-[![SAP Web IDE](https://img.shields.io/badge/SAP%20Web%20IDE-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/web-ide.html)
-[![SAP BAS](https://img.shields.io/badge/SAP%20BAS-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/business-application-studio.html)
-[![VS Code](https://img.shields.io/badge/VS%20Code-003B57?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![UI5 Inspector](https://img.shields.io/badge/UI5%20Inspector-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/SAP/ui5-inspector)
-[![DevTools](https://img.shields.io/badge/DevTools-003B57?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-003B57?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/fiori.html)
+[![SAP Web IDE](https://img.shields.io/badge/SAP%20Web%20IDE-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/web-ide.html)
+[![SAP BAS](https://img.shields.io/badge/SAP%20BAS-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/business-application-studio.html)
+[![VS Code](https://img.shields.io/badge/VS%20Code-00517D?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![UI5 Inspector](https://img.shields.io/badge/UI5%20Inspector-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/SAP/ui5-inspector)
+[![DevTools](https://img.shields.io/badge/DevTools-00517D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-00517D?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-#### 💮 Backend & Tools
+### 💮 Backend & Tools
 
-[![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/s4hana.html)
-[![SAP CPI](https://img.shields.io/badge/SAP%20CPI-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/cloud-platform-integration.html)
-[![SAP NetWeaver](https://img.shields.io/badge/SAP%20NetWeaver-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/netweaver.html)
-[![SAP ECC6](https://img.shields.io/badge/SAP%20ECC6-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/erp.html)
-[![CDS Views](https://img.shields.io/badge/CDS%20Views-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://help.sap.com/viewer/product/CDS/)
-[![Postman](https://img.shields.io/badge/Postman-003B57?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-003B57?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+[![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/s4hana.html)
+[![SAP CPI](https://img.shields.io/badge/SAP%20CPI-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/cloud-platform-integration.html)
+[![SAP NetWeaver](https://img.shields.io/badge/SAP%20NetWeaver-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/netweaver.html)
+[![SAP ECC6](https://img.shields.io/badge/SAP%20ECC6-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/erp.html)
+[![CDS Views](https://img.shields.io/badge/CDS%20Views-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://help.sap.com/viewer/product/CDS/)
+[![Postman](https://img.shields.io/badge/Postman-00517D?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-00517D?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 
-#### 💮 Frameworks, Platforms & Libraries
+### 💮 Frameworks, Platforms & Libraries
 
-[![SAP UI5](https://img.shields.io/badge/SAP%20UI5-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://ui5.sap.com/)
-[![SAP Gateway](https://img.shields.io/badge/SAP%20Gateway-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/gateway.html)
-[![React](https://img.shields.io/badge/React-003B57?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![React Redux](https://img.shields.io/badge/React%20Redux-003B57?style=for-the-badge&logo=redux&logoColor=white)](https://react-redux.js.org/)
-[![React State Manager](https://img.shields.io/badge/React%20State%20Manager-003B57?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/docs/state-and-lifecycle.html)
-[![Node.js](https://img.shields.io/badge/Node.js-003B57?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-003B57?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![NPM](https://img.shields.io/badge/NPM-003B57?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![Yarn](https://img.shields.io/badge/Yarn-003B57?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
-[![JWT](https://img.shields.io/badge/JWT-003B57?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
-[![Nodemon](https://img.shields.io/badge/Nodemon-003B57?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
-[![Sass](https://img.shields.io/badge/Sass-003B57?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![SAP UI5](https://img.shields.io/badge/SAP%20UI5-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://ui5.sap.com/)
+[![SAP Gateway](https://img.shields.io/badge/SAP%20Gateway-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/gateway.html)
+[![React](https://img.shields.io/badge/React-00517D?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![React Redux](https://img.shields.io/badge/React%20Redux-00517D?style=for-the-badge&logo=redux&logoColor=white)](https://react-redux.js.org/)
+[![React State Manager](https://img.shields.io/badge/React%20State%20Manager-00517D?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/docs/state-and-lifecycle.html)
+[![Node.js](https://img.shields.io/badge/Node.js-00517D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-00517D?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![NPM](https://img.shields.io/badge/NPM-00517D?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Yarn](https://img.shields.io/badge/Yarn-00517D?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
+[![JWT](https://img.shields.io/badge/JWT-00517D?style=for-the-badge&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
+[![Nodemon](https://img.shields.io/badge/Nodemon-00517D?style=for-the-badge&logo=nodemon&logoColor=white)](https://nodemon.io/)
+[![Sass](https://img.shields.io/badge/Sass-00517D?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
-#### 💮 Data Formats
+### 💮 Data Formats
 
-[![OData](https://img.shields.io/badge/OData-003B57?style=for-the-badge&logo=odata&logoColor=white)](https://www.odata.org/)
-[![JSON](https://img.shields.io/badge/JSON-003B57?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
-[![XML](https://img.shields.io/badge/XML-003B57?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/XML/)
+[![OData](https://img.shields.io/badge/OData-00517D?style=for-the-badge&logo=odata&logoColor=white)](https://www.odata.org/)
+[![JSON](https://img.shields.io/badge/JSON-00517D?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
+[![XML](https://img.shields.io/badge/XML-00517D?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/XML/)
 
-#### 💮 Databases/ORM
+### 💮 Databases/ORM
 
-[![SAP HANA](https://img.shields.io/badge/SAP%20HANA-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/hana.html)
-[![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-003B57?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Mongoose](https://img.shields.io/badge/Mongoose-003B57?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
-[![Sequelize](https://img.shields.io/badge/Sequelize-003B57?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
-[![PgAdmin](https://img.shields.io/badge/PgAdmin-003B57?style=for-the-badge&logo=pgadmin&logoColor=white)](https://www.pgadmin.org/)
-[![StarUML](https://img.shields.io/badge/StarUML-003B57?style=for-the-badge&logo=staruml&logoColor=white)](https://staruml.io/)
+[![SAP HANA](https://img.shields.io/badge/SAP%20HANA-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/hana.html)
+[![MySQL](https://img.shields.io/badge/MySQL-00517D?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00517D?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-00517D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-00517D?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![Sequelize](https://img.shields.io/badge/Sequelize-00517D?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
+[![PgAdmin](https://img.shields.io/badge/PgAdmin-00517D?style=for-the-badge&logo=pgadmin&logoColor=white)](https://www.pgadmin.org/)
+[![StarUML](https://img.shields.io/badge/StarUML-00517D?style=for-the-badge&logo=staruml&logoColor=white)](https://staruml.io/)
 
-#### 💮 VCS
+### 💮 VCS
 
-[![Git](https://img.shields.io/badge/Git-003B57?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-003B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![GitLab](https://img.shields.io/badge/GitLab-003B57?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
-[![GitKraken](https://img.shields.io/badge/GitKraken-003B57?style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)
-[![SAP Repository](https://img.shields.io/badge/SAP%20Repository-003B57?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/repository.html)
+[![Git](https://img.shields.io/badge/Git-00517D?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-00517D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-00517D?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
+[![GitKraken](https://img.shields.io/badge/GitKraken-00517D?style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)
+[![SAP Repository](https://img.shields.io/badge/SAP%20Repository-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/repository.html)
 
-#### 💮 Accessibility & SEO
+### 💮 Accessibility & SEO
 
-[![SEO](https://img.shields.io/badge/SEO-003B57?style=for-the-badge&logo=seo&logoColor=white)](https://moz.com/learn/seo)
-[![WCAG](https://img.shields.io/badge/WCAG-003B57?style=for-the-badge&logo=w3c&logoColor=white)](https://www.w3.org/WAI/WCAG21/quickref/)
+[![SEO](https://img.shields.io/badge/SEO-00517D?style=for-the-badge&logo=seo&logoColor=white)](https://moz.com/learn/seo)
+[![WCAG](https://img.shields.io/badge/WCAG-00517D?style=for-the-badge&logo=w3c&logoColor=white)](https://www.w3.org/WAI/WCAG21/quickref/)
