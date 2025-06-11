@@ -18,6 +18,7 @@
 ## 🌸 SAP CERTIFICATIONS
 
 [![SAP CPI](https://img.shields.io/badge/SAP%20CPI-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite)
+[![SAP Low-code/No-code](https://img.shields.io/badge/SAP%20Low--code%2FNo--code-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://learning.sap.com/learning-journeys/build-apps-with-sap-build)
 
 ## 🌸 Reach me
 
@@ -46,10 +47,11 @@
 ### 💮 Frontend & Tools
 
 [![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/fiori.html)
-[![SAP Web IDE](https://img.shields.io/badge/SAP%20Web%20IDE-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/web-ide.html)
 [![SAP BAS](https://img.shields.io/badge/SAP%20BAS-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/business-application-studio.html)
+[![SAP Build Work Zone](https://img.shields.io/badge/SAP%20Build%20Work%20Zone-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/build-work-zone.html)
 [![VS Code](https://img.shields.io/badge/VS%20Code-00517D?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![UI5 Inspector](https://img.shields.io/badge/UI5%20Inspector-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/SAP/ui5-inspector)
+[![SAP Web IDE](https://img.shields.io/badge/SAP%20Web%20IDE-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/web-ide.html)
 [![DevTools](https://img.shields.io/badge/DevTools-00517D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-00517D?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
@@ -57,6 +59,7 @@
 
 [![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/s4hana.html)
 [![SAP CPI](https://img.shields.io/badge/SAP%20CPI-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/cloud-platform-integration.html)
+[![SAP Build Process Automation](https://img.shields.io/badge/SAP%20Build%20Process%20Automation-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/build-process-automation.html)
 [![SAP NetWeaver](https://img.shields.io/badge/SAP%20NetWeaver-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/netweaver.html)
 [![SAP ECC6](https://img.shields.io/badge/SAP%20ECC6-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/erp.html)
 [![CDS Views](https://img.shields.io/badge/CDS%20Views-00517D?style=for-the-badge&logo=sap&logoColor=white)](https://help.sap.com/viewer/product/CDS/)
